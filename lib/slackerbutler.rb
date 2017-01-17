@@ -9,5 +9,4 @@ require 'slackerbutler/butler'
 require 'slackerbutler/bot'
 require 'slackerbutler/help'
 
-
 SlakerButler.run!
