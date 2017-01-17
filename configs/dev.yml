@@ -1,0 +1,5 @@
+slack:
+  token: xox-xxx
+  aliases: []
+  send_gifs: false
+commands: {}
