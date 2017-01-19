@@ -1,1 +1,1 @@
-require 'slackerbutler/commands/busy'
+require 'slackerbutler/commands/about'

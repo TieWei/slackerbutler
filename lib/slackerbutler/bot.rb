@@ -1,4 +1,4 @@
-module SlakerButler
+module SlackerButler
   class << self
     def run!
       server.run
