@@ -5,7 +5,7 @@ require 'slackerbutler/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'slackerbutler'
-  spec.version       = Slackerbutler::VERSION
+  spec.version       = SlackerButler::VERSION
   spec.authors       = ['Wei Tie']
   spec.email         = ['nuaafe@gmail.com']
 

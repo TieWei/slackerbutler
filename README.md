@@ -1,4 +1,4 @@
-# Slackerbutler
+# SlackerButler
 
 This is a slack bot for fun.
 
