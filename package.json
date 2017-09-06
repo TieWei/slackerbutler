@@ -1,0 +1,25 @@
+{
+  "name": "slackerbutler",
+  "version": "1.0.0",
+  "description": "A home made slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TieWei/slackerbutler.git"
+  },
+  "keywords": [
+    "slackbot"
+  ],
+  "author": "Tie Wei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TieWei/slackerbutler/issues"
+  },
+  "homepage": "https://github.com/TieWei/slackerbutler#readme",
+  "dependencies": {
+    "@slack/client": "^3.12.0"
+  }
+}
