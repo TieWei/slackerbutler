@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ['lib']
 
-  spec.add_dependency 'slack-ruby-bot', '~> 0.9.0'
+  spec.add_dependency 'slack-ruby-bot', '~> 0.11.0'
   spec.add_dependency 'celluloid-io', '~> 0.17.3'
 
   spec.add_development_dependency 'bundler', '~> 1.13'
